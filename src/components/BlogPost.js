@@ -1,5 +1,5 @@
 import React from "react";
-import BlogContent from "./BlogContent";
+import {BlogContent} from "./BlogContent";
 import Comment from "./Comment";
 
 function BlogPost() {
